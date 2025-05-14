@@ -1,6 +1,6 @@
 # AI Chat Interface
 
-This is a AI chat interface. It displays the key components of the chat interface. It uses Next.js and Tailwind CSS styling.
+This is a Fully Responsive AI chat interface. It displays the key components of the chat interface. It uses Next.js and Tailwind CSS styling.
 
 ## Getting Started
 
